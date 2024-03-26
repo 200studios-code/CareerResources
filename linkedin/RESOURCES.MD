@@ -39,6 +39,9 @@ Estos consejos te ayudarán a mejorar la calidad de tu perfil en general. Van ce
   - Muestra toda la educación que has recibido, incluyendo cursos relevantes.
   - Mantén esta lista actualizada, agregando cursos de educación continua, incluyendo cursos de LinkedIn Learning.
 
+- Localiza tu perfil
+  - Si estás buscando empleos en diferentes países o regiones, es importante que muestres tu perfil en los diferentes idiomas que se hablen.
+
 - Graba y agrega la pronunciación de tu nombre
   - Además de su utilidad, tener esta sección ayuda a mantener tu perfil más completo al usar todas las características brindadas por LinkedIn.
 

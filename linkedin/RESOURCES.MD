@@ -84,8 +84,8 @@ Estos consejos te ayudarán a mejorar la calidad de tu perfil en general. Van ce
 
 ## Referencias
 
-- 10 Tips for Taking a Professional LinkedIn Profile Photo(https://www.linkedin.com/business/talent/blog/product-tips/tips-for-taking-professional-linkedin-profile-pictures)
-- Your network and degrees of connection(https://www.linkedin.com/help/linkedin/answer/a545636/your-network-and-degrees-of-connection?lang=en)
-- Artículos colaborativos(https://www.linkedin.com/help/linkedin/answer/a1413111?trk=lss-blog-better-linkedin-profile)
-- Improve your LinkedIn profile in 5 minutes(https://www.linkedin.com/pulse/improve-your-linkedin-profile-5-minutes-lillian-cotter/)
-- LinkedIn for Software Engineers(https://taplio.com/blog/linkedin-for-software-engineers)
+- [10 Tips for Taking a Professional LinkedIn Profile Photo](https://www.linkedin.com/business/talent/blog/product-tips/tips-for-taking-professional-linkedin-profile-pictures)
+- [Your network and degrees of connection](https://www.linkedin.com/help/linkedin/answer/a545636/your-network-and-degrees-of-connection?lang=en)
+- [Artículos colaborativos en LinkedIn](https://www.linkedin.com/help/linkedin/answer/a1413111?trk=lss-blog-better-linkedin-profile)
+- [Improve your LinkedIn profile in 5 minutes](https://www.linkedin.com/pulse/improve-your-linkedin-profile-5-minutes-lillian-cotter/)
+- [LinkedIn for Software Engineers](https://taplio.com/blog/linkedin-for-software-engineers)
